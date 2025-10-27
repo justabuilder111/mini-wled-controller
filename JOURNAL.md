@@ -8,7 +8,7 @@
 
 ## 10/27/2025 - 1: Research  
 
-today I did some research on what components to use and how it should look
+today and yesterday I did some research on what components to use and how it should look
 looked through existing esp32 based wled controllers
 I decided that I want this to be usb-c powered so you can power it with a generic charger and a powerbank if you want to make something portable using it
 not 100% sure about the looks yet, I'll do the schematic first!
