@@ -12,7 +12,8 @@ today and yesterday I did some research on what components to use and how it sho
 looked through existing esp32 based wled controllers
 I decided that I want this to be usb-c powered so you can power it with a generic charger and a powerbank if you want to make something portable using it
 not 100% sure about the looks yet, I'll do the schematic first!
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--c3bc8f39159a06d3d1e3a076efe12f5c387ddf52/image.png)
 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--c3bc8f39159a06d3d1e3a076efe12f5c387ddf52/image.png)
+(I didn't have any other image to add)
   
 
