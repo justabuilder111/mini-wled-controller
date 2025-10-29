@@ -17,3 +17,13 @@ not 100% sure about the looks yet, I'll do the schematic first!
 (I didn't have any other image to add)
   
 
+## 10/29/2025 - 2: Work and more research  
+
+working on the schematic
+it takes me some time to read thru the datasheets, find the right components then wire them up properly
+havent designed a pcb in a long time lol
+i think the hardest parts are finished though
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--5979649cb6b70ad5749ec14ae4a25a59fc7eedf6/image.png)
+
+  
+
