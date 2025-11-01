@@ -27,11 +27,17 @@ i think the hardest parts are finished though
 
   
 
-## 11/1/2025 - 3: Finished schematic  
+## 11/1/2025 4 PM - 3: Finished schematic  
 
 I finished the schematic, took me a long time to go thru all datasheets and connect everything right
 I'm pretty sure everything is alright, I'll check it a few more times later
 now starting the pcb design
 ![Schematic_miniwled_2025-11-01 (2)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQyNywicHVyIjoiYmxvYl9pZCJ9fQ==--7237e0ae91f00c7daaeb1261b1ff1b7ac09523af/Schematic_miniwled_2025-11-01%20(2).png)
+  
+
+## 11/1/2025 6 PM - 4: Fixes and costs  
+
+I converted the project to EasyEDA Pro and everything broke... spent the time fixing everything and I also made sure all my parts are basic where possible and have economic assembly available
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ2NywicHVyIjoiYmxvYl9pZCJ9fQ==--472de3f015a21cf1ffbcb586fdded1ebc5e47dba/image.png)
   
 
