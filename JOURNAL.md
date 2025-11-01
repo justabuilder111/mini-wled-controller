@@ -41,3 +41,13 @@ I converted the project to EasyEDA Pro and everything broke... spent the time fi
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ2NywicHVyIjoiYmxvYl9pZCJ9fQ==--472de3f015a21cf1ffbcb586fdded1ebc5e47dba/image.png)
   
 
+## 11/1/2025 8 PM - 5: Layout  
+
+i'm trying to have some layout for the pcb and not make it too big
+this is taking me way too long lol i thought its gonna be faster
+using easyeda pro for the 1st time doesnt help
+i also changed a few pins
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzUwMywicHVyIjoiYmxvYl9pZCJ9fQ==--7635d8afd466922b0a32a9830de4329035086e94/image.png)
+(i know it looks terrible...)
+  
+
