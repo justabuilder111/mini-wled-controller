@@ -51,3 +51,12 @@ i also changed a few pins
 (i know it looks terrible...)
   
 
+## 11/2/2025 - 6: Finished layout  
+
+i think the layout is finished, maybe i'll make some changes to it later
+took me some time lol
+now i have to route all of this and then design a 3d printed case
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYwNywicHVyIjoiYmxvYl9pZCJ9fQ==--3eaccd3e328ee584bac40b48b89b1c2636a96561/image.png)
+  
+
