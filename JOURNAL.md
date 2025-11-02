@@ -51,12 +51,24 @@ i also changed a few pins
 (i know it looks terrible...)
   
 
-## 11/2/2025 - 6: Finished layout  
+## 11/2/2025 1 AM - 6: Finished layout  
 
 i think the layout is finished, maybe i'll make some changes to it later
 took me some time lol
 now i have to route all of this and then design a 3d printed case
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYwNywicHVyIjoiYmxvYl9pZCJ9fQ==--3eaccd3e328ee584bac40b48b89b1c2636a96561/image.png)
+  
+
+## 11/2/2025 10 PM - 7: Routing and small tweaks  
+
+i worked on this for the whole day (with breaks ofc)
+i changed the levelshifter to another faster one with a smaller package
+i changed the esp32 to one with 8mb flash because it had economic assembly available, while the 4mb didnt
+i also added a few capacitors and removed one or two because they were useless
+then i routed the whole pcb which took me some time, ive never done it before
+i might do a few small changes to the pcb but for now its done and i'll attempt to design a 3d printed case for my board now
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0cf9324836a31716607306e2b1c5a4754b3b0e72/image.png)
+
   
 
