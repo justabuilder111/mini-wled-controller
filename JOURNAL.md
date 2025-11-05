@@ -72,3 +72,11 @@ i might do a few small changes to the pcb but for now its done and i'll attempt 
 
   
 
+## 11/5/2025 - 8: Case  
+
+i tried to design a 3d printed case following a tutorial from youtube
+i have no idea if it will fit at all but its done i guess
+maybe when the board comes ill get someone to print it and test
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--38b4379f788c7630b7c1ff3ca5e0937661a9530f/image.png)
+  
+
